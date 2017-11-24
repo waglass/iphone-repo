@@ -9,5 +9,7 @@ complete
 priority
 timestamp
 reuse completed items
+title
+
 
 
