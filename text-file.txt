@@ -1,8 +1,5 @@
 this is a text file with my first entry
-<<<<<<< HEAD
 
 The time has come for all good men to come to the aid of their country.
 
 ### Iphone project - Todo List
-=======
->>>>>>> parent of daae03c... Second update to text-file.txt
